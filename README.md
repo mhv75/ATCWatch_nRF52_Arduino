@@ -1,6 +1,5 @@
 # Arduino Core for ATC nRF52 Boards [Adafruit nRF52 Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 
-[![Build Status](https://github.com/mhv75/ATCWatch_nRF52_Arduino/workflows/Build/badge.svg)](https://github.com/mhv75/ATCWatch_nRF52_Arduino/actions)
 
 This repository contains the Arduino BSP for Hackable nRF52 Smart Watch series using by [@ATC1441](https://github.com/atc1441)'s [DaflasherFiles](https://github.com/atc1441/DaFlasherFiles) to enable flashing a custom [Arduino firmware](https://github.com/atc1441/ATCwatch) to them. 
 
